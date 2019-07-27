@@ -9,4 +9,4 @@ Cara Menjalankan Program :
 
 Untuk membuka Source Code saya menggunakan aplikasi :
 - Visual Studio Code 	= Untuk source code HTML, PHP
-- SQLyog		          = Untuk source code databasenya (.sql)
+- SQLyog		       = Untuk source code databasenya (.sql)
