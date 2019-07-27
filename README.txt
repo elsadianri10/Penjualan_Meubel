@@ -7,6 +7,6 @@ Cara Menjalankan Program :
 5. Buka browser (Chrome/Firefox/Opera/Safari/IE/dll)
    > Ketikan http://localhost/toko_mebel/index.php
 
-Untuk membuka Source Code nya, saya menggunakan aplikasi :
+Untuk membuka Source Code nya, saya menggunakan :
 - Visual Studio Code = Untuk source code HTML, PHP
 - SQLyog = Untuk source code databasenya (.sql)
