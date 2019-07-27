@@ -1,6 +1,6 @@
 Cara Menjalankan Program :
 1. Download file program dan taruh di folder mana saja yang kalian inginkan/langsung ke folder xampp > htdocs
-2. Extrack berkas karena file masih dalam format .rar
+2. Extract berkas karena file masih dalam format .rar
 3. Setelah di ekstract pindahkan file folder program ke folder xampp > htdocs
 4. Menyiapkan XAMPP
    > Nyalakan Apache & MySQL
